@@ -2,6 +2,8 @@
 
 souporcell supports demultiplexing pooled scRNA-seq in two practical modes:
 
+souporcell3 : (https://github.com/wheaton5/souporcell)
+[Article](https://www.nature.com/articles/s41592-020-0820-1)
 ### A) Genotype-free demultiplexing (no VCF)
 This is the default and most widely used approach. souporcell calls variants from the scRNA-seq BAM, builds donor genotypes, clusters cells into donors, and identifies doublets.
 
