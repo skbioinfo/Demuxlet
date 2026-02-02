@@ -1,0 +1,4 @@
+sample_id    bam_path                                             barcode_path                                          vcf_path
+S1           sample_A/outs/possorted_genome_bam.bam                sample_A/outs/.../barcodes.tsv.gz                    vcfs/donors_run001.vcf.gz
+S2           sample_B/outs/possorted_genome_bam.bam                sample_B/outs/.../barcodes.tsv.gz                    vcfs/donors_run001.vcf.gz
+
